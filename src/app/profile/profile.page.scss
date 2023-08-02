@@ -1,0 +1,41 @@
+ion-content {
+    --background: #f0f0f0;
+  }
+  
+  .profile-grid {
+    height: 100%;
+  }
+  
+  .profile-form {
+    max-width: 320px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .profile-form ion-item {
+    margin-bottom: 20px;
+  }
+  
+  .profile-avatar {
+    --border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+  }
+  
+  .save-button {
+    margin-top: 20px;
+    --background: #007bff;
+    color: #fff;
+  }
+  
+  .logout-button {
+    margin-top: 10px;
+    --background: #dc3545;
+    color: #fff;
+  }
+  
